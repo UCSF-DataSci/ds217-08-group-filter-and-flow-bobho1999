@@ -1,5 +1,8 @@
 facility_type,region,service_charge,insurance_paid,patient_paid
+Hospital,North,,,
 Hospital,South,334927.3,267183.95,67743.35
+Hospital,West,,,
+Specialty Center,North,,,
 Specialty Center,South,672546.29,540230.15,132316.14
 Specialty Center,West,599974.54,482436.48,117538.06
 Urgent Care,North,334992.21,269207.92,65784.29
